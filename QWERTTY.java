@@ -1,10 +1,10 @@
-import java.util.Random
+import java.util.Random;
 import java.util.Scanner;
 
 public class QWERTTY {
     public static void main(String[] args) {
     
-        //choice of rock paper scissor
+        //choice of rock paper scissor9
         System.out.println("rock=0 \n scissor=2 \n paper=1 \n \n<YOUR CHOICE>") ;
         Scanner sc = new Scanner(System.in);
         int user_choice= sc.nextInt();
